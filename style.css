@@ -1,0 +1,35 @@
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    color: red;
+    font-size: 20px;
+}
+
+body
+{
+    color: white;
+    background-color: pink;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+#camera
+{
+    border: 2px dashed black;
+width: 350px;
+height: 300px;
+}
+img:hover{
+border-radius: 100px;
+}
+.result1 , result2 , result3
+{
+    box-shadow: 0 6px 8px 0 rgb(2, 2, 2, 0.2) ;
+}
